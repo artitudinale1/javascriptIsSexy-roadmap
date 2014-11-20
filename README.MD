@@ -7,11 +7,9 @@ as Frontend developer I'm keen to gain a deeply understanding and practice of JS
 
 I found online this roadmap http://javascriptissexy.com/how-to-learn-javascript-properly/ and I think it s valid starting point.
 
-I bought a copy of the book they suggest :  Professional JavaScript for Web Developers (3rd Edition)
+I bought a copy of the book they suggest :  Professional JavaScript for Web Developers (3rd Edition), which I found very good.
 
-which I found very good.
-
-Even tho , at the moment, I'm still in my second weeks of reading, I have tryied to kick off with the quiz project.
+Even if, at the moment, I'm still in my second weeks of reading, I have tryied to kick off with the quiz project.
 
 ##<b>DESCRIPTION</b>##
 
