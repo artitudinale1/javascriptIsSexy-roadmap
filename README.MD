@@ -50,3 +50,4 @@ HTML5, JavaScript
  - Later (after you have learned Backbone.js and Node.js or Meteor.js), you can use these technologies to refactor your quiz code and turn the same quiz into a sophisticated, single-page, modern web application built with the latest JavaScript frameworks. And you will store the users’ authentication credentials and scores in a MongoDB database.
 
    
+<b>PLESE IF YOU EXPERIMENT ANY BUGS/ERRORS/PROBLEMS TESTiNG OR CHECKING OUT THIS PROJECT</b> report it though GITHUB or @ alex.garulli@gmail.com
