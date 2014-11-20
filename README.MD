@@ -2,7 +2,7 @@
 
 ##<b>BRIEF/BACKGOUND PROJECT</b>##
 
-JavaScript is the first true programming language I'm keen to impove. I have a basic understanding of programming language, but
+JavaScript is the first true programming language I'm keen to impove. I have a basic understanding of programming languages, but
 as Frontend developer I'm keen to gain a deeply understanding and practice of JS.
 
 I found online this roadmap http://javascriptissexy.com/how-to-learn-javascript-properly/ and I think it s valid starting point.
