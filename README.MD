@@ -2,7 +2,7 @@
 
 ##<b>BRIEF/BACKGOUND PROJECT</b>##
 
-JavaScript is the first true programming language I'm keen to impove. I have a basic understing of programming language, but
+JavaScript is the first true programming language I'm keen to impove. I have a basic understanding of programming language, but
 as Frontend developer I'm keen to gain a deeply understanding and practice of JS.
 
 I found online this roadmap http://javascriptissexy.com/how-to-learn-javascript-properly/ and I think it s valid starting point.
@@ -49,6 +49,6 @@ HTML5, JavaScript
  
  That's will be probably an other repo:
  
--Later (after you have learned Backbone.js and Node.js or Meteor.js), you can use these technologies to refactor your quiz code and turn the same quiz into a sophisticated, single-page, modern web application built with the latest JavaScript frameworks. And you will store the users’ authentication credentials and scores in a MongoDB database.
+ - Later (after you have learned Backbone.js and Node.js or Meteor.js), you can use these technologies to refactor your quiz code and turn the same quiz into a sophisticated, single-page, modern web application built with the latest JavaScript frameworks. And you will store the users’ authentication credentials and scores in a MongoDB database.
 
    
