@@ -1,6 +1,6 @@
 #<b>Javascript Is Sexy - roadmap</b>#
 
-##<b>BRIEF/BACKGOUND PROJECT</b>##
+##<b>BRIEF/BACKGROUND PROJECT</b>##
 
 JavaScript is the first true programming language I'm keen to impove. I have a basic understanding of programming languages, but
 as Frontend developer I'm keen to gain a deeply understanding and practice of JS.
